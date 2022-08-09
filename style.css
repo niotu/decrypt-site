@@ -1,0 +1,69 @@
+#header
+{
+	background-image: url(02.gif);
+	width: 100%;	
+	height: 10vw;
+}
+	
+#title
+{
+	text-align: center;
+	font-size: 2vw;
+}
+
+
+#decrypt
+{
+	position: absolute;
+	background: pink;
+	width: 250;
+	height: 200;
+	border: 3px solid;
+	border-color: red blue green yellow;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);																																																																																																																																																																																																																																																																																													
+
+}
+
+#div_button_accept_decryption
+{
+	text-align: center;
+}
+
+#footer
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+#body
+{
+	background: black; 
+}
+
+a:hover
+{
+	background: red;
+	color: white;
+	font-size: 30px;
+}
+
+#left_image
+{
+	position: absolute;
+	border: 3px dashed pink;
+	left: 1%;
+	top: 30%;
+}
+
+#right_image
+{
+	position: absolute;
+	border: 3px dashed pink;
+	left: 83%;
+	top: 30%;
+}
+
+

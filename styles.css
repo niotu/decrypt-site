@@ -1,0 +1,35 @@
+table
+{
+	border: 5px dashed pink;
+	color: pink;
+}
+#all
+{
+	position: absolute;
+	left: 450; 
+	top: 100;
+}
+#info
+{
+	position: absolute;
+	left: 132
+}
+#title
+{
+	position: absolute;
+	left: 130;
+	top: -100;
+	color: pink;
+}
+body
+{
+	background: black;
+}
+#editform
+{
+	display: none;
+}
+#editPform
+{
+	display: none;
+}
